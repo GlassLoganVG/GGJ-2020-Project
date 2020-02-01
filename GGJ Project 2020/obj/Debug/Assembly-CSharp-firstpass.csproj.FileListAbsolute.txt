@@ -1,0 +1,2 @@
+C:\Users\logan\Documents\Games\GGJ Project 2020\GGJ Project 2020\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+C:\Users\logan\Documents\Games\GGJ Project 2020\GGJ Project 2020\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
