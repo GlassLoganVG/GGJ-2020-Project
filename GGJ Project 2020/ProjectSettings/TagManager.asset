@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 2048161425
+    locked: 0
+  - name: Island
+    uniqueID: 1407338141
+    locked: 0
+  - name: Text
+    uniqueID: 2347258455
+    locked: 0
