@@ -65,7 +65,6 @@
     <Compile Include="Assets\Scripts\AudioFile.cs" />
     <Compile Include="Assets\Scripts\BGM_Manager.cs" />
     <Compile Include="Assets\Scripts\DDOL.cs" />
-    <Compile Include="Assets\Scripts\Dissolve.cs" />
     <Compile Include="Assets\Scripts\LevelManager.cs" />
     <Compile Include="Assets\Scripts\Menu.cs" />
     <Compile Include="Assets\Scripts\Quicktime.cs" />
