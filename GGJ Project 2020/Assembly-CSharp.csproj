@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\DDOL.cs" />
     <Compile Include="Assets\Scripts\LevelManager.cs" />
     <Compile Include="Assets\Scripts\Menu.cs" />
+    <Compile Include="Assets\Scripts\Quicktime.cs" />
     <Compile Include="Assets\Scripts\SFX_Manager.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/F-Drive/Unity Projects/GGJ-2020-Project/GGJ Project 2020/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
