@@ -10,10 +10,6 @@ public class Quicktime : MonoBehaviour
     bool lower = false;
     bool raise = true;
 
-    bool success = false;
-    float minSuccess = -1.0f;
-    float maxSuccess = 1.0f;
-
     // Start is called before the first frame update
     void Start()
     {
@@ -26,16 +22,6 @@ public class Quicktime : MonoBehaviour
         if(Input.GetMouseButtonDown(0))
         {
             go = false;
-            if(quicktimeSlider.value >= minSuccess && quicktimeSlider.value <= maxSuccess)
-            {
-                Debug.Log("Success");
-                success = true;
-            }
-            else
-            {
-
-                Debug.Log("Failure");
-            }
         }
 
         if (go)
