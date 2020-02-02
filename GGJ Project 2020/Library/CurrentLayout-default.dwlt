@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 685
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 521}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -330,7 +330,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -390,9 +390,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: b4f9ffff44faffff90faffffa0faffffbcfaffffeefaffff6efbffff
+      m_SelectedIDs: 04faffff
+      m_LastClickedID: -1532
+      m_ExpandedIDs: b0faffffbefaffffccfaffffdafaffff6efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -506,7 +506,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 14.514769
     speed: 2
-    m_Value: 14.493028
+    m_Value: 14.514769
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -570,20 +570,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 60
   m_LastFolders:
-  - Assets/Scripts
+  - Assets
   m_LastFoldersGridSize: 60
   m_LastProjectPath: D:\F-Drive\Unity Projects\GGJ-2020-Project\GGJ Project 2020
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 23}
-    m_SelectedIDs: 68340000
-    m_LastClickedID: 13416
-    m_ExpandedIDs: 000000005634000000ca9a3b
+    m_SelectedIDs: 8a340000
+    m_LastClickedID: 13450
+    m_ExpandedIDs: 000000008a34000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -611,7 +611,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000056340000
+    m_ExpandedIDs: 000000008a340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -730,4 +730,4 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 100
+  m_LastVerticalScrollValue: 0
